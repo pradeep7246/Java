@@ -82,11 +82,7 @@
         <version>2.16</version>
         <executions>
           <execution>
-            <goals>
-              <goal>integration-test</goal>
-              <goal>verify</goal>
-            </goals>
-          </execution>
+                     </execution>
         </executions>
       </plugin>
     </plugins>
